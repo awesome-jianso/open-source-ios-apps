@@ -290,6 +290,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Hand-painted style tower defense game](https://github.com/gamechina/GoldenWar)
 - [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery)
 - [HausClock](https://github.com/nottombrown/HausClock)
+- [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate)
 - [Hedgewars](https://hg.hedgewars.org/hedgewars/)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation)
 - [Heredox](https://github.com/RolandasRazma/Heredox)
